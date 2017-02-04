@@ -10,7 +10,27 @@ At the heart of a neural network is the perceptron. The perceptron is a a glorif
 
 The linear function at the heart of all neurons is: y = mx + b. However, computer scientists prefer z = wx+b, where _w_ refers to the **weight** and _b_ refers to the **bias** term. If the output is greater than 0 the neuron outputs a 1, else it outputs a 0.
 
-A more advanced version 
+However this simple activation is insufficient for useful applications because it does not allow for small changes in weights and biases to result in a small change in output. Instead the output is forced to be either a zero or a one.
+
+A sigmoid function solves this problem by producing a smooth approximation of the thresholding function.
+
+![Image result for sigmoid](images/main-qimg-05edc1873d0103e36064862a45566dba.gif)
+
+
+
+This allows the artist of a neural network to fine tune parameters to fine tuned results in the output.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
