@@ -1,0 +1,18 @@
+# Neural Networks Log
+
+I will log my learning in neural networks in this markdown file; I come in with an empty bucket and come out with a well of knowledge.
+
+### Perceptron and Sigmoid Perceptrons
+
+_Feb 4 2017_
+
+At the heart of a neural network is the perceptron. The perceptron is a a glorified linear function that takes an input, x, performs a linear calculation and produces an output y.
+
+The linear function at the heart of all neurons is: y = mx + b. However, computer scientists prefer z = wx+b, where _w_ refers to the **weight** and _b_ refers to the **bias** term. If the output is greater than 0 the neuron outputs a 1, else it outputs a 0.
+
+A more advanced version 
+
+
+
+
+
