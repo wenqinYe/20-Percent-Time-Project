@@ -28,18 +28,18 @@ Some terminology: input layer neurons receive inputs, output layer neurons outpu
 
 
 
-## Backpropagation
+## Gradient Descent
 
 _Feb 4 2017_
 
+The gradient descent algorithm will help us tune our neural network to a good set of weights and biases to produce desired outputs for a given input.
+
+To begin the cost function is defined as
 
 
-
-
-
-
-
-
+$$
+C(w,b) = \frac{1}{2n}\sum{||y(x) - a||^2}
+$$
 
 
 
