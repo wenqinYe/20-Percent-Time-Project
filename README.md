@@ -1,8 +1,10 @@
 # Neural Networks Log
 
-I will log my learning in neural networks in this markdown file; I come in with an empty bucket and come out with a well of knowledge.
+I will log my learning on neural networks in this markdown file; for I travel long distances with empty buckets to fill the well in my mind.
 
-### Perceptron and Sigmoid Perceptrons
+
+
+## Perceptron and Sigmoid Perceptrons
 
 _Feb 4 2017_
 
@@ -20,7 +22,15 @@ A sigmoid function solves this problem by producing a smooth approximation of th
 
 This allows the artist of a neural network to fine tune parameters to fine tuned results in the output.
 
+Combinations of neural networks in layered arrangements are used to solve a variety of problems.
 
+Some terminology: input layer neurons receive inputs, output layer neurons output a value, hidden layer neurons receive and output values to other neurons.
+
+
+
+## Backpropagation
+
+_Feb 4 2017_
 
 
 
